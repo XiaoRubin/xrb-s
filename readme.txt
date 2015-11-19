@@ -11,3 +11,4 @@ issue-102+1
 dev1+1
 issue101+1
 clone +1
+fugaics
